@@ -4,3 +4,5 @@ yolov8x.pt
 models
 output_videos
 .DS_Store
+*.mp4
+*.mov
